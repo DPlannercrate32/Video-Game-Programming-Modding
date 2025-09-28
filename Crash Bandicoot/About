@@ -1,1 +1,6 @@
-This project is about the recreation of the OG Crash Bandicoot gameplay.
+This project is about the recreation of the OG Crash Bandicoot gameplay. 
+I developed this project using the Unity software that allowed me to 
+create 3D objects and assign C# scripts to them for controlling their behavior to 
+make the overall gameplay feel similar to the gameplay of the original Crash Bandicoot 
+games. In my scripts I incorporated object oriented programming where each type of object is part
+of a class. 

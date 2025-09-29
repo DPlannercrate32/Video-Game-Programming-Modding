@@ -1,1 +1,4 @@
-This project is a mod to a Sonic the Hedgehog game and it alters its gameplay graphics.
+This project is a mod to a Sonic the Hedgehog game that alters its gameplay graphics. 
+I leveraged a software that allowed me to access the game's memory so I can find the base address of certain
+variables that I want to change in the game. Then I created a dll file with C++ coding that accesses the base
+memory of the variables via memory dereferencing to make changes. Overall I basically alter the game's motion blur.

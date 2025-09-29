@@ -1,5 +1,5 @@
 This project is basically a modification of a game from the Sonic the Hedgehog franchise where it creates a classic ability for Sonic. 
-I leverage an API from a video game modder that allowed me to modify the game with C++ coding, basically 
-giving me access to the game's memory so I can modify specific gameplay features. This video game mod allows the modern Sonic of that game to
+I leverage an API from a video game modder that allowed me easy memory access to the game's variables so I can use 
+my C++ coding to modify specific gameplay features. This video game mod allows the modern Sonic of that game to
 perform a rolling ablitiy called the spindash which he couldn't perform in the original game. My coding made it possible for this ability to be
 combined with his boost ability that he has in the original game.

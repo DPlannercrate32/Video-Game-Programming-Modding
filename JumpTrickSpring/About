@@ -1,4 +1,4 @@
 This is a personal project that modifies a 3D Sonic the Hedgehog game to add abilities to Sonic's moveset. 
-I leverage an API from a video game modder that allowed me to modify the game with C++ coding, basically 
-giving me access to the game's memory so I can modify specific gameplay features. I wanted to simulate the gameplay
+I leverage an API from a video game modder that allowed me easy memory access to the game's variables so I can use 
+my C++ coding to modify specific gameplay features. I wanted to simulate the gameplay
 of a 2D Sonic game of a portable Nintendo device. 

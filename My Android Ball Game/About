@@ -1,1 +1,3 @@
 This project represents my attempt at creating a simple mobile game. It's a point based games that's involvings interacting with rotating spheres for points.
+I used a video game engine software that allowed me to create 3D objects and control them using C# scripts that allow for C# coding. My scripts manages
+the rotating behavior of the spheres, handles the points system, and the clicking inputs from users. 
